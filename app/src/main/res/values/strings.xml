@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GTaxi</string>
+    <string name="title_activity_reset_password">ResetPassword</string>
+    <string name="title_activity_driver_map">Map</string>
+</resources>

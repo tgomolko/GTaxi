@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "138433050709",
+    "firebase_url": "https://gtaxi-2df3e.firebaseio.com",
+    "project_id": "gtaxi-2df3e",
+    "storage_bucket": "gtaxi-2df3e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:138433050709:android:8ed08c3aad9c5502",
+        "android_client_info": {
+          "package_name": "timofeyinc.gtaxi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "138433050709-4s0b5otp378fonejfjrd88h00aih8fct.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "timofeyinc.gtaxi",
+            "certificate_hash": "76bb5e6bbf9d3ad239201d44238ee84298b02634"
+          }
+        },
+        {
+          "client_id": "138433050709-vnkfui2bkqen13iqa37e9e65brr0dqr4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBcTatXhmVXHZ6KK_yttDUB4RLV0kZGZA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "138433050709-vnkfui2bkqen13iqa37e9e65brr0dqr4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
